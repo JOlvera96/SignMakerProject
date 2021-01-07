@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sign Maker</string>
+    <string name="Indicación">Ingresa a continuación el texto para mostrar en el letrero</string>
+    <string name="Acción1">Enviar</string>
+    <string name="Acción2">Conectar</string>
+    <string name="Acción3">Desconectar</string>
+    <string name="AppName">SignMaker</string>
+    <string name="Consejo">Si el dispositivo que necesita no esta en la lista, por favor de vincularlo en la configuración de Android</string>
+    <string name="Acción4">Seleccione un dispositivo para conectarse</string>
+</resources>
